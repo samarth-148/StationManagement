@@ -1,5 +1,0 @@
-i learned how assembly line works and how to use the move constructor and move assignment operator to move objects from one container to another.
-I have revised many concept which I have used in workshop which I learn during the semester. I found this projects a little bit dissicult as compare
-to other workshop. First of all, In this workshop some parts are already implemented we just have to complete our tasks to make the application fully 
-produtive. This project gives me an exposer  of the industry , I mean  kind of team work. 
-
